@@ -30,7 +30,7 @@
   },
   "scripts": {
     "start": "webpack-dev-server .",
-    "build": "Webpack .",
+    "build": "Webpack ."
   },
   "author": "",
   "license": "ISC"
