@@ -8,7 +8,7 @@ export default function Start(props) {
     <div className="start">
       <img src={Blob1} alt="" className="blob-1" />
       <h1>Quizzical</h1>
-      <p>Answer some questions to learn how good you are. Good luck.</p>
+      <p>Answer some questions to learn how good you are.</p>
       <button className="start-quiz" onClick={props.handleStart}>
         <h3>Start quiz</h3>
       </button>
